@@ -1,7 +1,7 @@
 # Matemáticas Prácticas
 Sitio web para calcular figuras geométricas, fórmulas científicas, convertir unidades de medida, etcétera.
 
-...
+---
 
 ## Figuras geométricas
 
