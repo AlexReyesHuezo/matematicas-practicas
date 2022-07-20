@@ -6,7 +6,8 @@ const areaSquare = side => `${(side ** 2).toFixed(2)} cm²`;
 // Triangle code
 
 const perimeterTriangle = (firstSide, secondSide, base) =>
-`${(parseFloat(firstSide) + parseFloat(secondSide) + parseFloat(base)).toFixed(2)} cm`;
+    `${(parseFloat(firstSide) + parseFloat(secondSide) + parseFloat(base)).toFixed(2)} cm`;
+
 const areaTriangle = (base, height) => `${(base * height / 2).toFixed(2)} cm²`;
 
 // Circle code
